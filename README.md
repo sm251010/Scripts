@@ -1,2 +1,2 @@
 # Scripts
-my scripts
+Contains my scripts, test and prod both
